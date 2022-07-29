@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.box{
+  height:auto ;
+  width:auto;
+  background:linear-gradient(rgb(#474c51),transparent);
+  background-color:rgba(#adb5bd) /*this your primary color*/
+}
+
+
+
+.userInfoButton{
+  justify-content: space-evenly;
+}
+
+.display{ 
+  text-align: center;
+}
